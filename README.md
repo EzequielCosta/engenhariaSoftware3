@@ -1,3 +1,3 @@
 # engenhariaSoftware3
 
-Exercícios da disciplina de Engenharia de Software III - Análise e Desenvolvimento de Sistema
+Atividades da disciplina de Engenharia de Software III - Análise e Desenvolvimento de Sistema
